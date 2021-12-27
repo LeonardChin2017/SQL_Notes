@@ -3,6 +3,12 @@ Repository to keep all my learning materials and note of SQL.
 
 ***
 
+### Setup
+- Download and install PostgreSQL : https://www.postgresql.org/download/
+- Download and install pgadmin4 : https://www.pgadmin.org/download/pgadmin-4-windows/
+
+***
+
 ### SQL Keywords & Examples
 
 Keywords | Examples | Description
