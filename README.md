@@ -4,6 +4,7 @@ Repository to keep all my learning materials and note of SQL.
 ***
 
 ### SQL Keywords & Examples
+
 Keywords | Examples | Description
 --- | --- | --- | --- 
 SELECT | SELECT * FROM tbl | Select all rows and column from the table 'tbl' |  
